@@ -1,0 +1,47 @@
+2020-10-09T17:14:56-0400 [INFO    ] dandi Traversing remote dandisets (000041) recursively
+2020-10-09T17:14:56-0400 [INFO    ] backups2datalad.py Updating metadata file
+2020-10-09T17:14:58-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Bogey/sub-Bogey_ses-Bogey-012615_ecephys.nwb
+2020-10-09T17:14:58-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:14:58-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BWRat17/sub-BWRat17_ses-BWRat17-121712_ecephys.nwb
+2020-10-09T17:14:58-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:14:58-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BWRat17/sub-BWRat17_ses-BWRat17-121912_ecephys.nwb
+2020-10-09T17:14:59-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:14:59-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BWRat18/sub-BWRat18_ses-BWRat18-020513_ecephys.nwb
+2020-10-09T17:14:59-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:14:59-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BWRat19/sub-BWRat19_ses-BWRat19-032413_ecephys.nwb
+2020-10-09T17:15:00-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:00-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BWRat19/sub-BWRat19_ses-BWRat19-032513_ecephys.nwb
+2020-10-09T17:15:00-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:00-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BWRat20/sub-BWRat20_ses-BWRat20-101013_ecephys.nwb
+2020-10-09T17:15:00-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:00-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BWRat20/sub-BWRat20_ses-BWRat20-101513_ecephys.nwb
+2020-10-09T17:15:01-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BWRat21/sub-BWRat21_ses-BWRat21-121113_ecephys.nwb
+2020-10-09T17:15:01-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BWRat21/sub-BWRat21_ses-BWRat21-121613_ecephys.nwb
+2020-10-09T17:15:01-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:01-0400 [INFO    ] backups2datalad.py Syncing asset /sub-BWRat21/sub-BWRat21_ses-BWRat21-121813_ecephys.nwb
+2020-10-09T17:15:02-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:02-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Dino/sub-Dino_ses-Dino-061814_ecephys.nwb
+2020-10-09T17:15:02-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:02-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Dino/sub-Dino_ses-Dino-061914_ecephys.nwb
+2020-10-09T17:15:02-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:02-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Dino/sub-Dino_ses-Dino-062014_ecephys.nwb
+2020-10-09T17:15:03-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:03-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Dino/sub-Dino_ses-Dino-072114_ecephys.nwb
+2020-10-09T17:15:03-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:03-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Dino/sub-Dino_ses-Dino-072314_ecephys.nwb
+2020-10-09T17:15:03-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:03-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Dino/sub-Dino_ses-Dino-072414_ecephys.nwb
+2020-10-09T17:15:04-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:04-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Rizzo/sub-Rizzo_ses-Rizzo-022615_ecephys.nwb
+2020-10-09T17:15:04-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:04-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Rizzo/sub-Rizzo_ses-Rizzo-022715_ecephys.nwb
+2020-10-09T17:15:05-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Splinter/sub-Splinter_ses-Splinter-020515_ecephys.nwb
+2020-10-09T17:15:05-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Splinter/sub-Splinter_ses-Splinter-020915_ecephys.nwb
+2020-10-09T17:15:05-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Templeton/sub-Templeton_ses-Templeton-032415_ecephys.nwb
+2020-10-09T17:15:06-0400 [INFO    ] backups2datalad.py Asset in dataset, and hash shows no modification; will not update
+2020-10-09T17:15:06-0400 [INFO    ] backups2datalad.py Commiting changes
